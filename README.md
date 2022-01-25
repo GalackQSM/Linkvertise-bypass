@@ -1,6 +1,6 @@
 <p align= center</p><a href="https://discord.gg/saturnetools" target="_blank"><img src="https://i.imgur.com/jKAmdD8.png" alt="Linkvertise bypass"></a>
 <a href="https://discord.gg/saturnetools" target="_blank"><img src="https://img.shields.io/discord/918257651392061500.svg?logo=discord&colorB=7289DA"></a>
-<a href="https://paypal.me/GalackQSM?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://img.shields.io/badge/paypal-donation-blue.svg"></a>
+<a href="https://paypal.me/GalackQSM?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://img.shields.io/badge/paypal-donation-blue.svg?style=flat-square"></a>
 <img src="https://img.shields.io/github/languages/top/GalackQSM/Linkvertise-bypass?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/GalackQSM/Linkvertise-bypass?style=flat-square" </a>
 <img src="https://img.shields.io/github/license/GalackQSM/Linkvertise-bypass?style=flat-square" </a>
