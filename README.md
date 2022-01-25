@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/languages/top/GalackQSM/Linkvertise-bypass?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/GalackQSM/Linkvertise-bypass?style=flat-square" </a>
 <img src="https://img.shields.io/github/license/GalackQSM/Linkvertise-bypass?style=flat-square" </a>
-<img src="https://img.shields.io/github/downloads/GalackQSM/Linkvertise-bypass/total?color=%23daff00&label=Download&style=flat-square" </a>
+<img src="https://img.shields.io/github/downloads/GalackQSM/Linkvertise-bypass/total?color=%23daff00&label=Downloads&style=flat-square" </a>
 <img src="https://img.shields.io/github/stars/GalackQSM/Linkvertise-bypass?color=%23daff00&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/GalackQSM/Linkvertise-bypass?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
